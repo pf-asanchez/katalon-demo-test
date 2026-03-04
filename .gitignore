@@ -1,0 +1,34 @@
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+
+.cache
+
+# IDE/local machine metadata
+.settings/
+
+# Katalon local execution/integration settings and tokens
+settings/
+console.properties
+
+# Runtime/downloaded artifacts (safe to regenerate)
+Drivers/
+Plugins/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.log
