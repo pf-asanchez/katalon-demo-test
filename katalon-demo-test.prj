@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Demo</name>
+   <name>katalon-demo-test</name>
    <tag></tag>
    <UUID>162c1b26-4737-410c-bd62-1a081ca21071</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
@@ -11,7 +11,6 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>11.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\asanchez\Katalon Studio\Demo\Demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
