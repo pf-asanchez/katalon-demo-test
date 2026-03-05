@@ -19,6 +19,7 @@ build
 
 # IDE/local machine metadata
 .settings/
+katalon-demo-test.prj
 
 # Katalon local execution/integration settings and tokens
 settings/
